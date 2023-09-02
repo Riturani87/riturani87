@@ -6,4 +6,4 @@
 
 
 - Hi, I’m @riturani87.
-- I’m a student persuing B.Tech in Computer Science.
+- I’m a student pursuing B.Tech in Computer Science.
